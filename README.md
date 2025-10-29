@@ -69,6 +69,9 @@ o	Navegar a la carpeta del proyecto
 o	Conectar dispositivo Android vía USB
 o	Habilitar depuración USB
 o	Ejecutar app configuration
+
+O descargar e instalar el apk directamente.
+
 📋 Requisitos del Sistema
 •	Android 8.0+ (API 26+)
 •	Permisos de ubicación para información completa de Wi-Fi
