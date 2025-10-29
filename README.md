@@ -56,21 +56,11 @@ Device Insight es una aplicación Android desarrollada en Kotlin, con el fin de 
 
 **Nota:** Todos los permisos incluyen explicaciones detalladas y se solicitan solo cuando son necesarios.
 
-## 🏗️ Arquitectura Implementada
-app/
-├── data/
-│ └── models/                         # Modelos de datos (SensorData, ConnectivityInfo)
-├── ui/
-│ └── activities/                     # Activities (Main, Sensores, Connectivity, Privacy)
-├── utils/                               # Utilidades (PermissionManager, Constants)
-└── resources/                     # Layouts, strings, themes
 
 
 ##🚀 Instalación y Uso
 
-1. Clonar el proyecto:
-   ```bash
-   git clone https://github.com/tuusuario/device-insight.git
+1. Descargar el .zip del proyecto
 2.	Abrir en Android Studio:
 o	Abrir Android Studio
 o	Seleccionar "Open an existing project"
